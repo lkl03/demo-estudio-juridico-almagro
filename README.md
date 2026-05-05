@@ -1,2 +1,7 @@
-# demo-estudio-juridico-almagro
-Demo web para Estudio Jurídico Almagro — diseñada por eterlab.
+# Estudio Jurídico Almagro
+
+Sitio web demo diseñado por [eterlab.](https://eterlab.co)
+
+## Editar
+
+Modificá `index.html` para personalizar el sitio.
